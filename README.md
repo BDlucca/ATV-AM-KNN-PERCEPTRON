@@ -1,4 +1,4 @@
-# AT1: Perceptron e KNN em Prática 🚀
+# AT1: Perceptron e KNN em Prática
 
 Este repositório contém a resolução da **Atividade Avaliativa 1 (AT1)** da disciplina de **Aprendizagem de Máquina**. O objetivo principal é implementar, calibrar e aplicar algoritmos clássicos de Machine Learning utilizando exclusivamente **operações vetorizadas com a biblioteca NumPy**.
 
