@@ -4,18 +4,14 @@ Este repositório contém a resolução da **Atividade Avaliativa 1 (AT1)** da d
 
 ---
 
-## 📋 Sumário
+##  Sumário
 - [Visão Geral dos Desafios](#-visão-geral-dos-desafios)
-  - [Desafio 1: Classificação Binária com Perceptron](#desafio-1-classificação-binária-com-perceptron-treinável)
-  - [Desafio 2: Predição de Risco de Churn com KNN](#desafio-2-predição-de-risco-de-churn-com-classificador-knn)
-  - [Desafio 3: Recomendação de Servidores Cloud](#desafio-3-recomendação-de-servidores-cloud-por-similaridade-espacial)
 - [🛠️ Pré-requisitos e Tecnologias](#️-pré-requisitos-e-tecnologias)
 - [🚀 Como Executar](#-como-executar)
-- [📁 Estrutura do Notebook](#-estrutura-do-notebook)
 
 ---
 
-## 💡 Visão Geral dos Desafios
+##  Visão Geral dos Desafios
 
 ### Desafio 1: Classificação Binária com Perceptron Treinável
 - **Contexto:** Triagem preliminar de risco de fraude em transações financeiras.
