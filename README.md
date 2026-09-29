@@ -46,4 +46,4 @@ Apenas Python e NumPy são necessários para rodar todas as implementações:
 
 Para instalar o NumPy:
 ```bash
-pip install numpy
+uv pip install numpy matplotlib jupyter ipykernel
