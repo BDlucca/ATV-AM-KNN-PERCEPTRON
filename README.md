@@ -32,7 +32,7 @@ Este repositório contém a resolução da **Atividade Avaliativa 1 (AT1)** da d
 
 ---
 
-## 🛠️ Pré-requisitos e Tecnologias
+##  Pré-requisitos e Tecnologias
 
 Apenas Python e NumPy são necessários para rodar todas as implementações:
 
