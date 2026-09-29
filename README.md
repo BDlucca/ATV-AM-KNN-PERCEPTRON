@@ -40,6 +40,6 @@ Apenas Python e NumPy são necessários para rodar todas as implementações:
 * **NumPy** >= 1.20.0
 * **Jupyter Notebook** / **Jupyter Lab** / **VS Code** (extensão Jupyter)
 
-Para instalar o NumPy:
+Para instalar as dependencias:
 ```bash
 uv pip install numpy matplotlib jupyter ipykernel
