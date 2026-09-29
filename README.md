@@ -6,8 +6,8 @@ Este repositório contém a resolução da **Atividade Avaliativa 1 (AT1)** da d
 
 ##  Sumário
 - [Visão Geral dos Desafios](#-visão-geral-dos-desafios)
-- [🛠️ Pré-requisitos e Tecnologias](#️-pré-requisitos-e-tecnologias)
-- [🚀 Como Executar](#-como-executar)
+- [ Pré-requisitos e Tecnologias](#️-pré-requisitos-e-tecnologias)
+- [ Como Executar](#-como-executar)
 
 ---
 
